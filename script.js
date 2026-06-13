@@ -78,7 +78,7 @@ const STATIONS = [
       <p class="kicker">Station 6 · Checkout</p>
       <h2>Stocked &amp; delivered<br/>by Sahil 🛍️</h2>
       <p>Thanks for walking the aisle. Saara saamaan dekh liya?
-         Le jao deck, ya let's talk.</p>
+         Ab cart full, dil bhi full — chai pe milo? ☕</p>
       <p class="big">👇</p>`,
   },
 ];
